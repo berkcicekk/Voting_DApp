@@ -1,7 +1,4 @@
 # Voting DApp Project
-Project Details PDF : https://drive.google.com/file/d/1nMM9hVDBROlmfvAtqgwntO9M4sX9_vd9/view?usp=sharing
-
-![image](https://github.com/berkcicekk/Voting_DApp/assets/90208101/ebffd397-47d4-4107-8925-3391acf3ee61)
 
 ## Available Scripts
 
